@@ -1,2 +1,2 @@
 # spotify-clone
-this is demo clone project
+This is Demo clone project
